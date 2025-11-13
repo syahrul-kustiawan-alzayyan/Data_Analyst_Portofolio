@@ -24,7 +24,7 @@ Saya senang mengubah data menjadi insight yang membantu organisasi memahami pola
 
 ---
 
-### 🧠 Customer Churn Prediction  
+### 2 Customer Churn Prediction  
 
 - **Tools**: Python (scikit-learn, Random Forest, Matplotlib)  
 
