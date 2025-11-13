@@ -26,13 +26,19 @@ Saya memiliki ketertarikan dalam mengolah data menjadi insight yang bermanfaat u
 
 ---
 
-### 2. Customer Churn Prediction
-- **Tools**: Python (XGBoost), Power BI  
-- **Deskripsi**: Model prediksi churn dengan akurasi 89% melalui optimisasi fitur & hyperparameter.  
-- **Highlight**: Dashboard Power BI untuk memantau churn secara real-time.  
-- 📌 [Lihat Project](https://github.com/username/customer-churn-prediction)  
-- 🖼️ Dashboard Preview:  
-  ![Churn Dashboard](link_gambar_dashboard)
+### 🧠 Customer Churn Prediction  
+
+- **Tools**: Python (scikit-learn, Random Forest, Matplotlib)  
+
+- **Deskripsi**:  
+  Model prediksi pelanggan *churn* menggunakan dataset **Telco Customer Churn**.  
+  Proyek ini mencakup proses pembersihan data, encoding fitur kategorikal, pelatihan model, serta evaluasi menggunakan metrik **akurasi**, **precision**, **recall**, dan **ROC AUC**.  
+  Model terbaik (**Random Forest**) mencapai akurasi sekitar **89%** setelah optimisasi parameter.  
+
+- **Highlight**:  
+  Menyediakan visualisasi hasil model berupa **Confusion Matrix**, **ROC Curve**, dan **Distribusi Probabilitas Churn** untuk membantu interpretasi hasil prediksi.  
+
+- 📌 [Lihat Project](https://github.com/syahrul-kustiawan-alzayyan/Customer-Churn-Prediction)
 
 ---
 
