@@ -13,13 +13,16 @@ Saya memiliki ketertarikan dalam mengolah data menjadi insight yang bermanfaat u
 
 ## 📂 Projects
 
-### 1. Retail Sales Analysis
-- **Tools**: Python, Tableau  
-- **Deskripsi**: Analisis tren penjualan retail untuk mengidentifikasi pola pembelian pelanggan.  
-- **Highlight**: Dashboard interaktif untuk memantau produk terlaris & seasonal trends.  
-- 📌 [Lihat Project](https://github.com/username/retail-sales-analysis)  
+### 1. Kimia Farma Sales Data Analysis (2020–2023)
+- **Tools**: Google BigQuery, Looker Studio  
+- **Deskripsi**: Analisis data penjualan Kimia Farma dari tahun 2020 hingga 2023 untuk menemukan tren pertumbuhan penjualan, performa cabang, dan kontribusi tiap provinsi terhadap pendapatan nasional.  
+- **Highlight**: 
+  - Proses *data cleaning* dan *transformation* menggunakan SQL di BigQuery  
+  - Dashboard interaktif di Looker Studio yang menampilkan KPI utama seperti total penjualan tahunan, total transaksi per provinsi, dan cabang dengan rating tertinggi namun transaksi terendah  
+  - Insight bisnis terkait efisiensi cabang dan potensi peningkatan performa penjualan  
+- 📌 [Lihat Project](https://github.com/syahrul-kustiawan-alzayyan/Kimia-Farma-Big-Data-Analytics)  
 - 🖼️ Dashboard Preview:  
-  ![Retail Dashboard](link_gambar_dashboard)
+  ![Kimia Farma Dashboard](https://lookerstudio.google.com/s/m7EvGKiIt24)
 
 ---
 
