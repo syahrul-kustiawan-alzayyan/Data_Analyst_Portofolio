@@ -28,26 +28,26 @@ Saya senang mengubah data menjadi insight yang membantu organisasi memahami pola
 
 - **Tools**: Python (scikit-learn, Random Forest, Matplotlib)  
 
-- **Deskripsi**:  
-  Model prediksi pelanggan *churn* menggunakan dataset **Telco Customer Churn**.  
+- **Deskripsi**:  Model prediksi pelanggan *churn* menggunakan dataset **Telco Customer Churn**.  
   Proyek ini mencakup proses pembersihan data, encoding fitur kategorikal, pelatihan model, serta evaluasi menggunakan metrik **akurasi**, **precision**, **recall**, dan **ROC AUC**.  
   Model terbaik (**Random Forest**) mencapai akurasi sekitar **89%** setelah optimisasi parameter.  
 
-- **Highlight**:  
-  Menyediakan visualisasi hasil model berupa **Confusion Matrix**, **ROC Curve**, dan **Distribusi Probabilitas Churn** untuk membantu interpretasi hasil prediksi.  
+- **Highlight**: Menyediakan visualisasi hasil model berupa **Confusion Matrix**, **ROC Curve**, dan **Distribusi Probabilitas Churn** untuk membantu interpretasi hasil prediksi.  
 
 - 📌 [Lihat Project](https://github.com/syahrul-kustiawan-alzayyan/Customer-Churn-Prediction)
 
 ---
 
 
-### 3. Social Media Sentiment Analysis
-- **Tools**: Python (NLP, WordCloud), Tableau  
-- **Deskripsi**: Analisis sentimen publik terhadap sebuah brand melalui data Twitter.  
-- **Highlight**: Visualisasi tren sentimen positif, netral, dan negatif secara interaktif.  
-- 📌 [Lihat Project](https://github.com/username/sentiment-analysis)  
-- 🖼️ Dashboard Preview:  
-  ![Sentiment Dashboard](link_gambar_dashboard)
+### 3. Ray-Ban Twitter Sentiment Analysis
+- **Tools**: Python (Pandas, NLTK VADER, WordCloud, Matplotlib)  
+- **Deskripsi**: Analisis sentimen publik terhadap produk **Ray-Ban** berdasarkan data Twitter.  
+  Proyek ini mengekstraksi cuitan dengan kata kunci *"Ray-Ban display"* menggunakan **Twitter API v2**, kemudian melakukan pembersihan teks, pelabelan sentimen (positif, netral, negatif) dengan **VADER**, dan visualisasi hasil dengan **Bubble Chart** serta **Word Cloud**.  
+- **Highlight**:  
+  - Klasifikasi sentimen otomatis menggunakan VADER  
+  - Visualisasi distribusi sentimen dalam bentuk **Bubble Chart**  
+  - **Word Cloud** untuk menampilkan kata paling sering muncul di tiap kategori sentimen  
+- 📌 [Lihat Project](https://github.com/syahrul-kustiawan-alzayyan/Ray-Ban-Sentiment-Analyst)
 
 ---
 
