@@ -22,7 +22,7 @@ Saya memiliki ketertarikan dalam mengolah data menjadi insight yang bermanfaat u
   - Insight bisnis terkait efisiensi cabang dan potensi peningkatan performa penjualan  
 - 📌 [Lihat Project](https://github.com/syahrul-kustiawan-alzayyan/Kimia-Farma-Big-Data-Analytics)  
 - 🖼️ Dashboard Preview:  
-  ![Kimia Farma Dashboard](https://lookerstudio.google.com/s/m7EvGKiIt24)
+  ![Kimia Farma Dashboard](https://github.com/syahrul-kustiawan-alzayyan/Kimia-Farma-Big-Data-Analytics/blob/main/Dashboard_Kimia_farma.pdf)
 
 ---
 
