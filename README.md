@@ -1,14 +1,12 @@
 # 📊 Data Analyst Portfolio – Syahrul Al Zayyan  
 
-Halo 👋, saya **Syahrul Al Zayyan**, seorang Data Analyst dengan pengalaman dalam **Python, SQL, Tableau, dan Power BI**.  
-Saya memiliki ketertarikan dalam mengolah data menjadi insight yang bermanfaat untuk mendukung pengambilan keputusan.  
+Saya seorang **Data Analyst** dengan latar belakang **Teknik Informatika** yang memiliki ketertarikan besar pada data, teknologi, dan pengambilan keputusan berbasis analisis.  
+Saya senang mengubah data menjadi insight yang membantu organisasi memahami pola, mengoptimalkan strategi, dan menciptakan nilai baru dari informasi.  
 
 ## 🚀 Skills
-- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel  
-- **Data Analysis**: Data Cleaning, EDA, Statistik Dasar  
-- **Visualization**: Tableau, Power BI, Dashboard Development  
-- **Machine Learning**: scikit-learn, XGBoost, TensorFlow (dasar)  
-
+- **Tools**: Excel, Tableau, Power BI, Looker Studio  
+- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, BigQuery  
+- **Data Analysis**: Data Cleaning, EDA, Data Visualization, Machine Learning 
 ---
 
 ## 📂 Projects
@@ -42,17 +40,8 @@ Saya memiliki ketertarikan dalam mengolah data menjadi insight yang bermanfaat u
 
 ---
 
-### 3. Financial Dashboard
-- **Tools**: SQL, Power BI  
-- **Deskripsi**: Dashboard keuangan yang menampilkan revenue, profit margin, dan cash flow.  
-- **Highlight**: Memudahkan manajemen dalam pengambilan keputusan strategis.  
-- 📌 [Lihat Project](https://github.com/username/financial-dashboard)  
-- 🖼️ Dashboard Preview:  
-  ![Financial Dashboard](link_gambar_dashboard)
 
----
-
-### 4. Social Media Sentiment Analysis
+### 3. Social Media Sentiment Analysis
 - **Tools**: Python (NLP, WordCloud), Tableau  
 - **Deskripsi**: Analisis sentimen publik terhadap sebuah brand melalui data Twitter.  
 - **Highlight**: Visualisasi tren sentimen positif, netral, dan negatif secara interaktif.  
@@ -70,4 +59,3 @@ Saya memiliki ketertarikan dalam mengolah data menjadi insight yang bermanfaat u
 
 ---
 
-⭐ Jangan lupa klik **star** ⭐ pada repository ini jika menurut Anda bermanfaat!  
